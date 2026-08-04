@@ -19,7 +19,7 @@ The set of next possible moves and their respective next possible moves can be v
 ## Running
 
 ```bash
-cd main/src
+cd /main/src
 ```
 
 ```bash
