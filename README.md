@@ -10,7 +10,7 @@ Each player is assigned a role in the search for the best move: a maximizing pla
 
 ### Eval function
 
-The evaluation function quantifies the outcome (winning, drawing, or losing) of a given terminal position.
+The evaluation function quantifies the outcome (winning, drawing or losing) of a given terminal position.
 
 For example, as in this program, and because tic-tac-toe isn't a complex game, a winning base case is assigned the value 1, a neutral position the value 0 and a losing position the value -1.
 
@@ -19,7 +19,7 @@ The set of next possible moves and their respective next possible moves can be v
 ## Running
 
 ```bash
-cd /main/src
+cd main/src
 ```
 
 ```bash
